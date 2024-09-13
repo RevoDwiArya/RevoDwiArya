@@ -14,6 +14,8 @@ I specialize in:
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="(https://img.shields.io/badge/NetBeans-6D6E71?style=for-the-badge&logo=apache-netbeans&logoColor=white"/>
   <img src="https://img.shields.io/badge/NeDB-339933?style=for-the-badge&logo=nedb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ## 📚 What I’m Currently Learning
